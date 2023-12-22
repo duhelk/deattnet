@@ -17,4 +17,7 @@ https://doi.org/10.1016/j.jvcir.2023.104012
     1. xx_retrieval.py perform the retrieval and create the result file
     2. xx_pos_eval.py gives recall@k and avg.pos.err @k results
 
-    
+
+Significant parts of the code are based on following repositories
+https://github.com/mapillary/mapillary_sls
+https://github.com/QVPR/Patch-NetVLAD
